@@ -32,6 +32,10 @@ The dataset consists of the following key components:
 ### Customer Feedback
 - Indicates whether feedback was provided for a particular order
 
+### DASHBOARD LINK : https://lookerstudio.google.com/reporting/e227db57-09d9-40c0-bd2d-22fb265ce994
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/23ccc726-23f0-4ad6-9718-718763197d5f" />
+
+
 ## Use Cases
 This dataset can be leveraged for:
 - **Sales trend analysis** across different time periods and regions
